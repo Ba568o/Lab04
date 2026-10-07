@@ -1,0 +1,78 @@
+/*
+
+filename: [your name]
+
+author: [your name]
+
+created: [enter date]
+
+last modified: [enter date]
+
+description: [html files it refers to (if known)]
+
+*/
+/* Body */
+body {
+    font-family: "calibri", sans-serif;
+    font-size: 12px;
+    margin-left: 70px;
+}
+
+h1 {
+    color: purple;
+}
+
+h2 {
+    color: teal;
+}
+
+.special {
+          color: darkorange;
+          font-weight:bold;
+         }     
+
+/* Navigation */
+
+nav a {
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+    padding: 3px 8px;
+    font-size: 11px;
+}
+
+/* Required hover */
+
+nav a:hover {
+    background-color: lightblue;
+    border-color: darkblue;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+th,
+td {
+    padding: 3px;
+}
+
+img {
+    border: 1px solid gray;
+}
+
+a {
+    color: #666666;
+}
+
+a:hover {
+    color: blue;
+}
+
+ 
